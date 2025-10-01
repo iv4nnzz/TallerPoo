@@ -1,5 +1,5 @@
 package modelo;
-
+//Agregar Ejercicio 5
 public class Factura {
     private String nombrePromotora;
     private String tipoFuncion;

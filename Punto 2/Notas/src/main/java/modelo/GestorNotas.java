@@ -1,5 +1,5 @@
 package modelo;
-
+//Agregar Ejercicio 2
 import javax.swing.JOptionPane;
 
 public class GestorNotas {
